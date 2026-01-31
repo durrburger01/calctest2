@@ -1,13 +1,13 @@
 const runeData = [
   {
-    name: 'Eternal',
-    chance: 1000000000,
+    name: 'Secret',
+    cap: 20x,
+    chance: 100000000,
     bonuses: [
-      '100x Energy',
-      '25x Flux',
-      '10x Surge',
-      '1x Voltage',
-      '2x Rarity Speed (2x Max)'
+      '',
+      '1.2x rune luck',
+      '1.2x rune bulk',
+      ''
     ],
     stats: [
       { label: 'Rarity Speed', type: 'linear', base: 1, growth: 2, cap: 2 }
