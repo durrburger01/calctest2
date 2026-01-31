@@ -1,7 +1,7 @@
 const runeData = [
   {
     name: 'Secret',
-    cap: 20x,
+    cap: 20,
     chance: 100000000,
     bonuses: [
       '',
