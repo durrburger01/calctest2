@@ -3,7 +3,7 @@ const runeData = [
     name: 'Secret',
     chance: 100000000,
     bonuses: [
-      '',
+      'rune cap: 20x',
       '1.2x rune luck',
       '1.2x rune bulk',
       ''
